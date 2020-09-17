@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c4ee5fe-b6e7-4576-9e34-867f80acc63b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/form/form.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/form/form.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,11 +158,21 @@
       <option name="presentableId" value="Default" />
       <updated>1600273339679</updated>
       <workItem from="1600273340910" duration="3441000" />
-      <workItem from="1600328896584" duration="92000" />
+      <workItem from="1600328896584" duration="3077000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3778" y="-30" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600346974422">
+      <screen x="2760" y="-512" width="2560" height="1440" />
+    </state>
+    <state x="3778" y="-30" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1680.-650.1080.1920/2760.-512.2560.1440/0.0.1680.1050@2760.-512.2560.1440" timestamp="1600346974422" />
+    <state x="3722" y="31" key="NewPhpClassDialog" timestamp="1600346951509">
+      <screen x="2760" y="-512" width="2560" height="1440" />
+    </state>
+    <state x="3722" y="31" key="NewPhpClassDialog/1680.-650.1080.1920/2760.-512.2560.1440/0.0.1680.1050@2760.-512.2560.1440" timestamp="1600346951509" />
   </component>
 </project>

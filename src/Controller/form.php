@@ -26,19 +26,14 @@ class form extends AbstractController
      */
     public function request(Request $request, Trace $trace):Response
     {
-        try {
             $name = $request->get('name');
             $number = $request->get('contact_number');
 
-
             if ($name && $number) {
                 $trace->insert($name, $number);
+                return $this->render('form/form.html.twig', ['success' => true]);
             }
 
-            return $this->render('form/form.html.twig', ['success' => true]);
-
-        } catch (Exception $exception) {
             return $this->render('form/form.html.twig', ['success' => false]);
-        }
     }
 }
